@@ -2,7 +2,6 @@ package org.example.views;
 
 import org.example.models.Usuario;
 import org.example.utils.UsuariosDB;
-
 import javax.swing.*;
 import java.awt.*;
 

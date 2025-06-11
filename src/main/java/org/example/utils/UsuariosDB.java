@@ -1,6 +1,5 @@
 package org.example.utils;
 import org.example.models.Usuario;
-
 import java.util.ArrayList;
 import java.util.Optional;
 //Simula uma tabela de usuários com autenticação:

@@ -5,7 +5,6 @@ import org.example.controllers.CursoController;
 import org.example.controllers.ProfessorController;
 import org.example.controllers.RelatorioController;
 import org.example.controllers.SecaoController;
-import org.example.views.JanelaCadastroUsuario;
 import org.example.Main;
 import javax.swing.*;
 import java.awt.*;

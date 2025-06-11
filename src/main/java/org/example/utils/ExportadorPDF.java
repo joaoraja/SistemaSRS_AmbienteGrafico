@@ -5,7 +5,6 @@ import com.itextpdf.text.pdf.*;
 import org.example.models.Aluno;
 import org.example.models.RegistroHistorico;
 import org.example.models.Secao;
-
 import java.io.File;
 import java.io.FileOutputStream;
 import java.util.List;
